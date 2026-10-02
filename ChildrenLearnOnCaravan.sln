@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildrenLearnOnCaravan", "ChildrenLearnOnCaravan.csproj", "{BEAC491F-6BCE-4B48-A779-6DA44623272C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildrenLearnOnCaravan", "Source/ChildrenLearnOnCaravan/ChildrenLearnOnCaravan.csproj", "{BEAC491F-6BCE-4B48-A779-6DA44623272C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
